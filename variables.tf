@@ -8,7 +8,7 @@ variable "secret_key" {
 
 variable "instance_name" {
         description = "Name of the instance to be created"
-        default = "iit_lab6"
+        default = "lab6_web_server"
 }
 
 variable "instance_type" {
